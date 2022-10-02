@@ -12,5 +12,6 @@ Cкрипт на языке Python 3, который выполняет след
 # Установка и запуск
 
 Склонировать репозиторий с Github:
-
+/
 git clone git@github.com:Witaly3/notification_service.git
+/
